@@ -1,5 +1,0 @@
-#JSGF V1.0;
-
-grammar grammar;
-
-public <commands> = ( request one | change color to red | change color to green | close | hello | continue | apple | hours | stop | speak | opera | steam | advice | translate);
